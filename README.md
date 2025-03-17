@@ -1,34 +1,14 @@
-<h2 align="left">Olá, me Lucas Montenegro de Carvalho, sou estudante de Ciências da Computação e futuro desenvolvedor Full Stack!</h2>
+<h1 align="left">Lucas Montenegro de Carvalho</h1>
 
 ###
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: nowrap; width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucascarvalho1808&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false" height="150" width="49%" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucascarvalho1808&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" height="150" width="49%" alt="languages graph"  />
-</div>
+<p align="left">Desenvolvedor Full Stack</p>
 
 ###
 
-<div align="center">
-  <img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="margin-top: 20px; margin-bottom: 20px;"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="30" alt="github logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-</div>
+<p align="left">
+Estudante de Ciências da Computação na UNIESP Centro Universitário. Focado em me tornar um Desenvolvedor Full Stack. Possuo conhecimento em IA generativa e engenharia de prompts, e busco oportunidades para aplicar meus conhecimentos em projetos reais.
+</p>
 
 ###
 
@@ -43,13 +23,34 @@
 
 ###
 
-## Sobre mim
+<h2> Linguagens e Tecnologias </h2>
 
-- 📚 Estudante de Ciências da Computação na UNIESP Centro Universitário
-- 💻 Focado em me tornar um Desenvolvedor Full Stack
-- 🌱 Atualmente aprendendo Python, HTML, CSS, Git/GitHub e Linux
-- 🤖 Conhecimento em IA generativa e engenharia de prompts
-- 🔍 Buscando oportunidades para aplicar meus conhecimentos em projetos reais
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
+</div>
+
+###
+
+<h2> Estatísticas </h2>
+
+###
+
+<div align="center" style="display: flex; justify-content: space-between; width: 100%;">
+  <div style="width: 60%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=lucascarvalho1808&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false" width="100%" alt="stats graph" />
+  </div>
+  <div style="width: 39%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucascarvalho1808&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" width="100%" alt="languages graph" />
+  </div>
+</div>
+
+###
 
 ## Projetos em Desenvolvimento
 
@@ -63,10 +64,5 @@
 - 🔄 Aprender frameworks Backend como Django ou Flask
 - 🔗 Contribuir com projetos open source
 - 🚀 Conquistar minha primeira oportunidade na área de desenvolvimento
-
-###
-
-<br clear="both">
-
 
 ###

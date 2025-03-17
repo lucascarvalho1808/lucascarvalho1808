@@ -1,8 +1,5 @@
 <h1 align="left">Lucas Montenegro de Carvalho</h1>
 
-###
-
-<p align="left">Desenvolvedor Full Stack</p>
 
 ###
 

@@ -44,7 +44,7 @@
 ## Sobre mim
 
 - 📚 Estudante de Ciências da Computação na UNIESP Centro Universitário
-- 💻 Focado em me tornar um Desenvolvedor Backend/Full Stack
+- 💻 Focado em me tornar um Desenvolvedor Full Stack
 - 🌱 Atualmente aprendendo Python, HTML, CSS, Git/GitHub e Linux
 - 🤖 Conhecimento em IA generativa e engenharia de prompts
 - 🔍 Buscando oportunidades para aplicar meus conhecimentos em projetos reais
@@ -66,6 +66,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/lucascarvalho1808/lucascarvalho1808/output/snake.svg" alt="Snake animation" />
 
 ###

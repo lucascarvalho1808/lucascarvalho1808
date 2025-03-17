@@ -2,14 +2,16 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucascarvalho1808&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucascarvalho1808&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" height="150" alt="languages graph"  />
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: nowrap; width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucascarvalho1808&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false" height="150" width="49%" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucascarvalho1808&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" height="150" width="49%" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
+<div align="center">
+  <img align="left" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="margin-top: 20px; margin-bottom: 20px;"  />
+</div>
 
 ###
 
@@ -22,7 +24,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="30" alt="github logo" style="filter: invert(1);" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   <img width="12" />

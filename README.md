@@ -2,9 +2,6 @@
 
 ###
 
-<p align="left">Desenvolvedor Full Stack</p>
-
-###
 
 <p align="left">
 Estudante de Ciências da Computação na UNIESP Centro Universitário. Focado em me tornar um Desenvolvedor Full Stack. Possuo conhecimento em IA generativa e engenharia de prompts, e busco oportunidades para aplicar meus conhecimentos em projetos reais.
@@ -41,12 +38,12 @@ Estudante de Ciências da Computação na UNIESP Centro Universitário. Focado e
 
 ###
 
-<div align="center" style="display: flex; justify-content: space-between; width: 100%;">
-  <div style="width: 60%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=lucascarvalho1808&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false" width="100%" alt="stats graph" />
+<div align="left">
+  <div style="display: inline-block; width: 49%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=lucascarvalho1808&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false" width="320px" alt="stats graph" />
   </div>
-  <div style="width: 39%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucascarvalho1808&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" width="100%" alt="languages graph" />
+  <div style="display: inline-block; width: 49%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucascarvalho1808&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" width="320px" alt="languages graph" />
   </div>
 </div>
 

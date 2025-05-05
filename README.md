@@ -51,7 +51,7 @@ Estudante de Ciências da Computação na UNIESP Centro Universitário. Focado e
 
 <h2 align="center">Projetos em Desenvolvimento</h2>
 
-<div align="left">
+<div align="center">
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td>
@@ -69,7 +69,7 @@ Estudante de Ciências da Computação na UNIESP Centro Universitário. Focado e
 
 <h2 align="center">Objetivos</h2>
 
-<div align="left">
+<div align="center">
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td>

@@ -5,10 +5,6 @@
 <h1 align="center">Lucas Montenegro de Carvalho</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=0077B5&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack+em+formação" alt="Typing SVG" />
-</p>
-
-<p align="center">
 Estudante de Ciências da Computação na UNIESP Centro Universitário. Focado em me tornar um Desenvolvedor Full Stack. Possuo conhecimento em IA generativa e engenharia de prompts, e busco oportunidades para aplicar meus conhecimentos em projetos reais.
 </p>
 

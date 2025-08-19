@@ -5,7 +5,7 @@
 <h1 align="center">Lucas Montenegro de Carvalho</h1>
 
 <p align="center">
-Estudante de Ciências da Computação na UNIESP Centro Universitário. Focado em me tornar um Desenvolvedor Full Stack. Possuo conhecimento em IA generativa e engenharia de prompts, e busco oportunidades para aplicar meus conhecimentos em projetos reais.
+Estudante de Engenharia de Software no IFPB. Focado em me tornar um Desenvolvedor Full Stack. Possuo conhecimento em IA generativa e engenharia de prompts, e busco oportunidades para aplicar meus conhecimentos em projetos reais.
 </p>
 
 <div align="center">

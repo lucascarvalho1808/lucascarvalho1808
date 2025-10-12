@@ -57,9 +57,8 @@ Estudante de Engenharia de Software no IFPB. Focado em me tornar um Desenvolvedo
     <tr>
       <td>
         <ul align="left">
-          <li>🐍 Aplicações Python para consolidar conhecimentos básicos</li>
-          <li>🌐 Páginas web com HTML e CSS para praticar frontend</li>
-          <li>🧠 Exploração de ferramentas de IA para otimizar o fluxo de desenvolvimento</li>
+          <li>🐍 Aplicações Python para consolidar conhecimentos em backend/li>
+          <li>🌐 Páginas web com HTML/CSS e Python para praticar frontend e backend</li>
         </ul>
       </td>
     </tr>

@@ -75,7 +75,7 @@ Estudante de Engenharia de Software no IFPB. Focado em me tornar um Desenvolvedo
       <td>
         <ul align="left">
           <li>📈 Aprofundar conhecimentos em Python e desenvolvimento web</li>
-          <li>🔄 Aprender frameworks Backend como Django ou Flask</li>
+          <li>🔄 Aprender outras linguagens backend</li>
           <li>🔗 Contribuir com projetos open source</li>
           <li>🚀 Conquistar minha primeira oportunidade na área de desenvolvimento</li>
         </ul>

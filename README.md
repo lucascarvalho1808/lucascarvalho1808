@@ -5,7 +5,7 @@
 <h1 align="center">Lucas Montenegro de Carvalho</h1>
 
 <p align="center">
-Estudante de Engenharia de Software no IFPB. Focado em me tornar um Desenvolvedor Full Stack. Possuo conhecimento em IA generativa e engenharia de prompts, e busco oportunidades para aplicar meus conhecimentos em projetos reais.
+Undergraduate Software Engineering student at IFPB (2025-2029) specializing in Full Stack development. I am actively developing a robust skill set in Python, Flask, Streamlit HTML & CSS, Linux, and version control using Git/GitHub. While in the foundational stage of my technical education, I have proactively applied these skills to personal projects, reinforcing my learning through hands-on experience. I am eager to secure an opportunity where I can contribute to real-world projects, leveraging my knowledge to deliver creative solutions and further my professional development.
 </p>
 
 <div align="center">
@@ -59,6 +59,7 @@ Estudante de Engenharia de Software no IFPB. Focado em me tornar um Desenvolvedo
       <td>
         <ul align="left">
           <li>🐍 Aplicações Python para consolidar conhecimentos em backend/li>
+          <li>🐍 Uso de bibliotecas Python como Streamlit e Flask/li>
           <li>🌐 Páginas web com HTML/CSS e Python para praticar frontend e backend</li>
         </ul>
       </td>

@@ -58,8 +58,8 @@ Undergraduate Software Engineering student at IFPB (2025-2029) specializing in F
     <tr>
       <td>
         <ul align="left">
-          <li>🐍 Aplicações Python para consolidar conhecimentos em backend/li>
-          <li>🐍 Uso de bibliotecas Python como Streamlit e Flask/li>
+          <li>🐍 Aplicações Python para consolidar conhecimentos em backend</li>
+          <li>🐍 Uso de bibliotecas Python como Streamlit e Flask</li>
           <li>🌐 Páginas web com HTML/CSS e Python para praticar frontend e backend</li>
         </ul>
       </td>

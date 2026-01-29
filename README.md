@@ -34,13 +34,13 @@ Undergraduate Software Engineering student at IFPB (2025-2029) specializing in F
 
 <hr style="border: 1px solid #ddd">
 
-<h2 align="center">Estatísticas</h2>
+<h2 align="center">Stats</h2>
 
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=lucascarvalho1808&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false" width="400px" alt="stats graph" />
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lucascarvalho1808&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
       </td> 
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucascarvalho1808&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" width="400px" alt="languages graph" />

@@ -20,7 +20,7 @@ Software Engineering student at IFPB focused on Full Stack development (Python/F
 
 <hr style="border: 1px solid #ddd">
 
-<h2 align="center">Linguagens e Tecnologias</h2>
+<h2 align="center">Languages and Tools I Use</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
